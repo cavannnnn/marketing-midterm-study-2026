@@ -70,3 +70,5 @@
   .chapter-top{font-size:10px}
   .quiz-heading h1{font-size:30px}
 }
+
+@media(max-width:650px){#s5 .mobile-diagram{background:#eef7f3;border-color:#d6e9dd}}
